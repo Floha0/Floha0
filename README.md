@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on back-end...
 - fgulhan07@gmail.com
 - Furkan Gülhan
-- student
+- Student
 
 <!---
 Floha0/Floha0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
