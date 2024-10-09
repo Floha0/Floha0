@@ -6,13 +6,7 @@ I'm a 18 year old developer and Computer Science student at Hacettepe University
 
 * **Languages** |  C# (main), C++, Python, ROS2
 * **OS** | Fedora, Windows
-
-### 📚 Programming Languages
-
-* C#
-* C++
-* Python
-* ROS2
+* **Programs**  |  Unity, Unreal Engine, Blender
 
 ### 🌍 Languages
 
