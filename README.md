@@ -1,10 +1,10 @@
 
 ## 🌠 Hi there! I'm Furkan.
 
-I'm a 18 year old developer and Computer Science student at Hacettepe University.
+Computer Science student at Hacettepe University.
 ### 🔧 Technologies
 
-* **Languages** |  C# (main), C++, Python, ROS2, Dart(Flutter)
+* **Languages** |  C# (main), C++, Python, ROS2, Dart (Flutter)
 * **OS** | Fedora, Windows
 * **Programs**  |  Unity, Unreal Engine, Blender
 
