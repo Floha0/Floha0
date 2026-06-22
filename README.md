@@ -1,11 +1,14 @@
 
 ## 🌠 Hi there! I'm Furkan.
 
-Computer Science student at Hacettepe University.
+Computer science student at Hacettepe University.
+Freelance game developer.
+AI/ML enjoyer.
+
 ### 🔧 Technologies
 
-* **Languages** |  C# (main), C++, Python, ROS2, Dart (Flutter)
-* **OS** | Fedora, Windows
+* **Languages** |  C#, C++, Python, ROS2, Dart (for Flutter)
+* **OS** | CachyOS, Fedora, Windows
 * **Programs**  |  Unity, Unreal Engine, Blender
 
 ### 🌍 Languages
